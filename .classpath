@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/work/java/java package/core.jar"/>
+	<classpathentry kind="lib" path="E:/work/java/java package/hanlp-solr-plugin-1.0.3-sources.jar"/>
+	<classpathentry kind="lib" path="E:/work/java/java package/javacpp.jar"/>
+	<classpathentry kind="lib" path="E:/work/java/java package/jxl.jar"/>
+	<classpathentry kind="lib" path="E:/work/java/java package/mdsj.jar"/>
+	<classpathentry kind="lib" path="E:/work/java/java package/opencv.jar"/>
+	<classpathentry kind="lib" path="E:/work/java/java package/opencv-android-arm.jar"/>
+	<classpathentry kind="lib" path="E:/work/java/java package/opencv-linux-x86_64.jar"/>
+	<classpathentry kind="lib" path="E:/work/java/java package/opencv-macosx-x86_64.jar"/>
+	<classpathentry kind="lib" path="E:/work/java/java package/opencv-windows-x86_64.jar"/>
+	<classpathentry kind="lib" path="E:/work/java/java package/org.apache.httpcomponents.httpclient-4.1.2.jar"/>
+	<classpathentry kind="lib" path="E:/work/java/java package/sqljdbc4.jar"/>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
